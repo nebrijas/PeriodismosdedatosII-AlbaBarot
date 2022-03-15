@@ -16,3 +16,5 @@ Para completar la información se ofrece un gráfico que analiza la **variación
 -Este **gráfico es en forma de tabla** y con cuadrados que representan cada día del mes y representa la variación media diaria de los afiliados a la Seguridad Social en cada uno de los días del año. Datos diarios desde enero de 2006 hasta octubre de 2021. Se usa el rojo y el azul y colores de la misma gama para presentar los datos. Los días con más bajas laborales en la *Seguridad Social* son los últimos de cada mes y los que más altas laborales registran los primeros días del mes, el siguiente gráfico del reportaje representa la variación media diaria de los afiliados a la Seguridad Social en cada uno de los días del año. Datos diarios desde enero de 2006 hasta la actualidad. Gráfico de puntos. 
 
 -Los últimos gráficos son **en forma de tabla** e informan sobre el día que más empleo se creó, el día que más empleo se destruyó, días que se destruyó y creó mucho empleo y días en los que la Seguridad Social apenas se movió. 
+
+La fuente es siempre la misma: Seguridad Social
