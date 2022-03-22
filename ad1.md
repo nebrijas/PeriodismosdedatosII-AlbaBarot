@@ -1,8 +1,8 @@
 # Comentario crítico sobre un trabajo de Periodismo de Datos
 
-## El Diario publicó el 27 de noviembre de 2021 un [reportaje de datos sobre la precariedad laboral](https://www.eldiario.es/economia/espana-temporal-maquina-crea-destruye-100-000-empleos-dia_1_8527925.html) en España con una serie de infografías que merece la pena analizar. 
+## El Diario publicó el 27 de noviembre de 2021 un reportaje de datos sobre la precariedad laboral en España con una serie de infografías que merece la pena analizar. 
 
--La primera infografía **representa con puntos** el número de bajas y altas de una persona trabajadora en la Seguridad Social en España con el fin de denunciar la temporalidad en el país. Me parece muy buena elección representar con puntos estos datos, ya que nos permite darnos cuenta del gran volumen de altas y bajas diarias. Además, los colores elegidos me parecen muy adecuados: el azul (representa estabilidad) para las altas y el rojo (representa el error) para las bajas. 
+-La primera infografía del [reportaje de datos sobre la precariedad laboral](https://www.eldiario.es/economia/espana-temporal-maquina-crea-destruye-100-000-empleos-dia_1_8527925.html) **representa con puntos** el número de bajas y altas de una persona trabajadora en la Seguridad Social en España con el fin de denunciar la temporalidad en el país. Me parece muy buena elección representar con puntos estos datos, ya que nos permite darnos cuenta del gran volumen de altas y bajas diarias. Además, los colores elegidos me parecen muy adecuados: el azul (representa estabilidad) para las altas y el rojo (representa el error) para las bajas. 
 
 -Los mensajes que acompañan la **segunda infografía** le dan mucho valor. Es información impactante que ayuda al lector a entender el mensaje que se quiere transmitir. Con la infinidad de puntos representados el lector puede hacerse a la idea de la gran cantidad de personas a las que se les da la baja y el alta diariamente (*100.000*), pero también del número de bajas y altas en una hora. **La información es fija** y está sobre un fondo blanco para que pueda leerse mejor.
 
