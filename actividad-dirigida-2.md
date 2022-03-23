@@ -1,5 +1,8 @@
 # Actividad dirigida 2
 
+AQUI PONEMOS EL TEXTO EN BRUTO COMO EN LA FORMA ESÁ DE FORMA LITERARIA 
+eL CÓDIGO SIRVEPARA QUE SEA VEA BIEN LAS ACCIONES. 
+
 ```
 
 from bs4 import BeautifulSoup
