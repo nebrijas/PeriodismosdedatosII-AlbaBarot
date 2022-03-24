@@ -6,7 +6,10 @@ En esta parte de la Actividad Dirigida 2 ponemos el código en bruto para entend
 El primer paso es importar la librería requests. Este paso nos permitirá bajarnos la página web en la que vamos a hacer el scrapping. La librería BeautifulSoup sirve para analizar los datos que nos hemos descargado en el paso previo. 
 
 # Variables
-El segundo paso es definir las variables. Lo primero es poner la URL de donde queremos sacar los datos ("https://resultados.elpais.com/deportivos/juegos-olimpicos/medallero/"). No solo sirve con poner la web, debemos hacer la petición con req = requests.get(URL). A continuación dos opciones: que se pueda leer la página o que no se pueda 
+El segundo paso es definir las variables. Lo primero es poner la URL de donde queremos sacar los datos ("https://resultados.elpais.com/deportivos/juegos-olimpicos/medallero/"). No solo sirve con poner la URL, debemos hacer la petición con req = requests.get(URL). 
+
+Damos la instrucción de que si el estatus code es distinto a 200:  if (req.status_code != 200) no puede hacer web sraping. 
+
 ```
 
 from bs4 import BeautifulSoup
