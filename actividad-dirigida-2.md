@@ -1,7 +1,6 @@
 # Actividad dirigida 2
 
-AQUI PONEMOS EL TEXTO EN BRUTO COMO EN LA FORMA ESÁ DE FORMA LITERARIA 
-eL CÓDIGO SIRVEPARA QUE SEA VEA BIEN LAS ACCIONES. 
+En esta parte de la Actividad Dirigida 2 ponemos el código en bruto para entender bien lo que hemos hecho en la otra actividad.  
 
 ```
 
