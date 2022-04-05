@@ -2,9 +2,12 @@
 
 ```
 
+
 from bs4 import BeautifulSoup
 import requests
 #Datos sobre los Juegos Olímpicos en 2020
+
+
 
 respuesta=input('¿QUIERES CONOCER LOS 20 PAÍSES QUE HAN OBTENIDO MÁS MEDALLAS EN 2020?\n \n Si tu respuesta es Sí, presiona "s" \n')
 if(respuesta == 's'):
