@@ -10,4 +10,4 @@ Soy Alba, estudiante del máster de **Periodismo de Datos II**. Utilizaré este 
 - Esta es la primera parte de la [Activididad Dirigida 4](AD4-api-pandas.md)
 - Esta es la segunda parte de la [Actividad Dirigida 4](ad4.2.md)
 
-Este es el [Mapa] (tipo.html)
+Este es el [Mapa](tipo.html)
