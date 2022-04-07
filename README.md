@@ -6,7 +6,7 @@ Soy Alba, estudiante del máster de **Periodismo de Datos II**. Utilizaré este 
 
 - Esta es la [Actividad Dirigida 1](ad1.md)
 - Esta es la [Actividad Dirigida 2](actividad-dirigida-2.md)
-- Esta es la [Activididad Dirigida 3](AD3/AD3-api-covid-19-pandas.md)
+- Esta es la [Activididad Dirigida 3](AD3/AD3-api-covid-19-pandas.md) Aquí puedes encontrar [el notebook](ad3.ipynb) de la Actividad Dirigida 3 
 - Esta es la primera parte de la [Activididad Dirigida 4](AD4-api-pandas.md)
 - Esta es la segunda parte de la [Actividad Dirigida 4](ad4.2.md)
 
